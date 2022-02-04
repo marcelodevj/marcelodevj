@@ -1,6 +1,6 @@
 ### Olá! Marcelo Alves 🦁 
 
-[![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-b8a35a227/)
+[![LINKEDIN](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/in/marcelo-alves-b8a35a227/)
 [![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marcelo.alvesdesouza.127/)[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.alvesdesouza.127/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&theme=onedark)
